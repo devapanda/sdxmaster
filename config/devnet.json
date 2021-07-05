@@ -1,0 +1,15 @@
+{
+    "blockchain": {
+        "rpc": "http://45.32.176.225:1545",
+        "ws": "wss://45.32.176.225:1546",
+        "internalRpc": "",
+        "internalWs": "",
+        "networkId": 7879
+    },
+    "explorerUrl": "https://scan.devnet.tomochain.com",
+    "tomoscanUrl": "http://tomoscan_server:3333",
+    "baseUrl": "https://master.devnet.tomochain.com",
+    "db": {
+        "uri" : "mongodb://localhost:27017/governance"
+    }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E94082;}
+</style>
+<g transform="translate(25 50)">
+	<circle class="st0" cx="-17.5" cy="-35" r="0.1">
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="-0.3333333333333333s" calcMode="spline" dur="1s" fill="remove" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" keyTimes="0;0.5;1" repeatCount="indefinite" restart="always" type="scale" values="0;1;0">
+		</animateTransform>
+	</circle>
+</g>
+<g transform="translate(50 50)">
+	<circle class="st0" cx="-35" cy="-35" r="0.4">
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="-0.16666666666666666s" calcMode="spline" dur="1s" fill="remove" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" keyTimes="0;0.5;1" repeatCount="indefinite" restart="always" type="scale" values="0;1;0">
+		</animateTransform>
+	</circle>
+</g>
+<g transform="translate(75 50)">
+	<circle class="st0" cx="-52.5" cy="-35" r="1.4">
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="0s" calcMode="spline" dur="1s" fill="remove" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" keyTimes="0;0.5;1" repeatCount="indefinite" restart="always" type="scale" values="0;1;0">
+		</animateTransform>
+	</circle>
+</g>
+</svg>
